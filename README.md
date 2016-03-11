@@ -1,2 +1,3 @@
 # hello-world
 learn github
+Learning Github here, have to get back to Udacity soon though...
